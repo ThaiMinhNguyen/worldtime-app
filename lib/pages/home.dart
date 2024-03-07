@@ -27,7 +27,7 @@ class _HomeState extends State<Home> {
             ),
             child: Padding(
               padding: const EdgeInsets.all(10.0),
-              child: Column(e
+              child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   TextButton.icon(
